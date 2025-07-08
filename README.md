@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hello! 👋  
+My name is Aysima Almas. I am a senior student at Doğuş University. I study Industrial Engineering. I like production planning and data analysis. I like working with teams. I like to use technology to help work.
 
-<!--
-**almasaysima/almasaysima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Skills  
+- Production Planning  
+- Data Analysis (Python, SQL)  
+- Simulation (Arena Simulation)  
+- Basic SAP  
+- Project Management  
+- Microsoft Office (Excel, PowerPoint)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Contact  
+📫 Email: almasaysima@gmail.com  
+🔗 LinkedIn: [https://www.linkedin.com/in/almasaysima](https://www.linkedin.com/in/almasaysima)  
+🌐 Portfolio: [https://almasaysima.github.io](https://almasaysima.github.io)
