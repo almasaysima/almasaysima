@@ -15,5 +15,5 @@ My name is Aysima Almas. I am a senior student at Doğuş University. I study In
 
 ### Contact  
 📫 Email: almasaysima@gmail.com  
-🔗 LinkedIn: [https://www.linkedin.com/in/almasaysima](https://www.linkedin.com/in/almasaysima)  
-🌐 Portfolio: [https://almasaysima.github.io](https://almasaysima.github.io)
+🔗 LinkedIn: [https://www.linkedin.com/in/almasaysima](https://www.linkedin.com/in/aysimaalmas/)  
+🌐 Portfolio: [https://almasaysima.github.io](https://github.com/almasaysima)
